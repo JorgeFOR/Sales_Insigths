@@ -51,7 +51,7 @@ and transactions.market_code="Mark001";`
 Data Analysis Using Power BI
 ============================
 
-After similar cleaning dashboards are produced and inserted in the correspondent pbix file
+After similar cleaning dashboards are produced and inserted in the correspondent pbix file in this repository
 
 
 
