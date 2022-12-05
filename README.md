@@ -1,7 +1,7 @@
 ## Sales Insights Data Analysis Project
 
 # Objective: 
-Explore and analyse sales data from an example company using SQL and PowerBi . Conclusions in a separate file in this repository
+Explore and analyse sales data from an example company using SQL and PowerBi . Preliminary conclusions in a separate file in this repository. All Files are updated regularity.  
 
 Start project planning and mindset for the analysis
 
